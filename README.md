@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/baryhuang-mcp-headless-gmail-badge.png)](https://mseep.ai/app/baryhuang-mcp-headless-gmail)
+
 # MCP Headless Gmail Server
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/buryhuang/mcp-headless-gmail)](https://hub.docker.com/r/buryhuang/mcp-headless-gmail)
